@@ -1,0 +1,35 @@
+* {
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    margin-top: 30px;
+    background-size: 100%;
+    background-repeat: repeat-y;
+}
+
+header{
+    margin: auto;
+    width: 30%;
+    
+}
+
+header h1{
+    color: black;
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-family: "Courgette";
+}
+
+header p{
+    color: black;
+}
+
+canvas {
+    background-color: white;
+    margin-top: 30px;
+    border: 2px solid black;
+}
